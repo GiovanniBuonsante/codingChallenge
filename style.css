@@ -1,0 +1,91 @@
+body{
+     background-image:URL("background.jpg");
+     background-size:cover;
+   }
+   body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: left;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: white;
+   }	
+   .quadrato-trasparente {
+      width: 820px;
+      height: 650px;
+      background-color: rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      text-align: left;
+   }
+   .quadrato-2 {
+      width: 600px;
+      height: 100px;
+      padding: 10px;
+      background-color: ;
+      Margin-left: 75px;
+      Text-align: left;
+   }
+   .quadrato-2 p {
+      margin: 0;
+   }
+   .centro-immagine {
+      text-align: center;
+   }
+   .centro-immagine img {
+      display: inline-block;
+   }
+   .centro-immagine img {
+      max-width: 165px;
+      max-height: 165px;
+      margin-top: 60px;
+   }
+   .testo-personalizzato {
+      font-family: "Arial", sans-serif;
+      font-weight: bold;
+      font-size: 25px;
+      color: rgb(100, 218, 65);
+   }
+   .testo-bianco-bold {
+      font-family: "Arial", sans-serif;
+      font-weight: bold;
+      font-size: 15px;
+      color: white;
+      text-align: left;
+   }
+   .testo-bianco {
+      font-family: "Arial", sans-serif;
+      font-size: 15px;
+      color: white;
+      text-align: left;
+   }
+   .rettangolo-colorato {
+      width: 680px;
+      height: 40px;
+      background-color: rgb(100, 218, 65);
+      Margin-left: 75px;
+      margin-top: -10px;
+   }
+   .rettangolo-arancio {
+      width: 300px;
+      height: 25px;
+      background-color: rgb(235, 183, 100);
+      border-radius: 5px;
+   }
+   .rettangolo-verdone {
+      width: 400px;
+      height: 25px;
+      background-color: rgb(92, 192, 64);
+      border-radius: 5px;
+   }
+   .rettangolo-rosso {
+      width: 120px;
+      height: 25px;
+      background-color: rgb(176, 74, 70);
+      border-radius: 5px;
+   }
+   .rettangolo-colorato button {
+      margin: 10px;
+   }
